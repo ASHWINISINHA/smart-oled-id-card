@@ -1,0 +1,10 @@
+http://www.majer.ch/lcd/adf_bitmap.php
+fior bmt image converter
+
+
+https://github.com/digistump/DigistumpArduino/tree/master/digistump-avr/libraries/DigisparkOLED
+
+liberary of oled
+
+
+
